@@ -1,0 +1,18 @@
+.Home_container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  min-height: 100vh;
+  max-width: 800px;
+  margin: 30px auto;
+  gap: 20px;
+}
+.Home_card {
+  margin: 30px 30px;
+  background-color: antiquewhite !important;
+}
+h3 {
+  margin: 0px;
+  text-align: center;
+}
